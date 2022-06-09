@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654798614138" clover="3.2.0">
+  <project timestamp="1654798614138" name="All files">
+    <metrics statements="409" coveredstatements="249" conditionals="177" coveredconditionals="67" methods="158" coveredmethods="76" elements="744" coveredelements="392" complexity="0" loc="409" ncloc="409" packages="36" files="51" classes="51"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\App.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+      <file name="credentials.js" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\credentials.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="Producto.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\Producto.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="11" count="32" type="stmt"/>
+        <line num="18" count="32" type="stmt"/>
+        <line num="19" count="32" type="stmt"/>
+        <line num="26" count="32" type="stmt"/>
+        <line num="27" count="32" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="32" type="stmt"/>
+        <line num="32" count="160" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Avatar">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Avatar.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Avatar\Avatar.jsx">
+        <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="25" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Button">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Button.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Button\Button.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="560" type="stmt"/>
+        <line num="14" count="560" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Heading">
+      <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="Heading.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Heading\Heading.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="8" count="768" type="stmt"/>
+        <line num="13" count="768" type="cond" truecount="4" falsecount="0"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Icon">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="Icon.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Icon\Icon.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="1553" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+      </file>
+      <file name="helpers.js" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Icon\helpers.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="88" count="5" type="stmt"/>
+        <line num="89" count="5" type="stmt"/>
+        <line num="95" count="1553" type="stmt"/>
+        <line num="96" count="3106" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Input">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Input.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Input\Input.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="236" type="stmt"/>
+        <line num="13" count="236" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Label">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Label.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Label\Label.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="236" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Picture">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="Picture.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Picture\Picture.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="172" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+      </file>
+      <file name="helpers.js" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Picture\helpers.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="19" count="172" type="stmt"/>
+        <line num="20" count="172" type="stmt"/>
+        <line num="21" count="172" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Spacer">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="SpacerHorizontal.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Spacer\SpacerHorizontal.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="306" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+      </file>
+      <file name="helpers.js" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Spacer\helpers.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="11" count="306" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Span">
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="Span.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\Span\Span.jsx">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.paragraph">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Paragraph.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\atoms\paragraph\Paragraph.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="736" type="stmt"/>
+        <line num="12" count="736" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.CardCategory">
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="CardCategory.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\CardCategory\CardCategory.jsx">
+        <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.CardProduct">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="0"/>
+      <file name="CardProduct.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\CardProduct\CardProduct.jsx">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="0"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Carousel">
+      <metrics statements="15" coveredstatements="12" conditionals="6" coveredconditionals="3" methods="5" coveredmethods="4"/>
+      <file name="Carousel.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\Carousel\Carousel.jsx">
+        <metrics statements="15" coveredstatements="12" conditionals="6" coveredconditionals="3" methods="5" coveredmethods="4"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="65" type="stmt"/>
+        <line num="12" count="64" type="stmt"/>
+        <line num="13" count="64" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="32" type="stmt"/>
+        <line num="18" count="32" type="stmt"/>
+        <line num="21" count="64" type="stmt"/>
+        <line num="22" count="32" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="32" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="32" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="32" type="stmt"/>
+        <line num="40" count="64" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Carousel.Versions">
+      <metrics statements="18" coveredstatements="6" conditionals="6" coveredconditionals="0" methods="10" coveredmethods="2"/>
+      <file name="DesktopCarousel.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\Carousel\Versions\DesktopCarousel.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="64" type="stmt"/>
+        <line num="12" count="64" type="stmt"/>
+        <line num="13" count="64" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="64" type="stmt"/>
+        <line num="23" count="320" type="stmt"/>
+      </file>
+      <file name="MobileCarousel.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\Carousel\Versions\MobileCarousel.jsx">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+      <file name="TabletCarousel.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\Carousel\Versions\TabletCarousel.jsx">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.DropCalendar">
+      <metrics statements="21" coveredstatements="14" conditionals="8" coveredconditionals="4" methods="10" coveredmethods="4"/>
+      <file name="CalendarDrop.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\DropCalendar\CalendarDrop.jsx">
+        <metrics statements="21" coveredstatements="14" conditionals="8" coveredconditionals="4" methods="10" coveredmethods="4"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="105" type="stmt"/>
+        <line num="17" count="105" type="stmt"/>
+        <line num="18" count="105" type="stmt"/>
+        <line num="20" count="105" type="stmt"/>
+        <line num="25" count="105" type="stmt"/>
+        <line num="26" count="105" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="70" type="stmt"/>
+        <line num="31" count="70" type="stmt"/>
+        <line num="34" count="105" type="stmt"/>
+        <line num="35" count="70" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="50" count="70" type="cond" truecount="3" falsecount="1"/>
+        <line num="51" count="70" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="88" count="105" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.InputIcon">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="InputIcon.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\InputIcon\InputIcon.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="82" type="stmt"/>
+        <line num="14" count="82" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+      </file>
+      <file name="helpers.js" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\InputIcon\helpers.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.InputLabel">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="InputLabel.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\InputLabel\InputLabel.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="236" type="stmt"/>
+        <line num="12" count="236" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.LocationInfo">
+      <metrics statements="3" coveredstatements="3" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="LocationInfo.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\LocationInfo\LocationInfo.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="32" type="stmt"/>
+        <line num="8" count="32" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Map">
+      <metrics statements="12" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="1"/>
+      <file name="Map.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\Map\Map.jsx">
+        <metrics statements="12" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="1"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="32" type="stmt"/>
+        <line num="10" count="32" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.MockUpCard">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MockUp.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\MockUpCard\MockUp.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="542" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.ProductDescription">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="ProductDescription.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\ProductDescription\ProductDescription.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="32" type="stmt"/>
+        <line num="12" count="32" type="stmt"/>
+        <line num="16" count="96" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.ProductHeader">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ProductHeader.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\ProductHeader\ProductHeader.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="32" type="stmt"/>
+        <line num="33" count="32" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.ProductServices">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="ProductServices.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\molecules\ProductServices\ProductServices.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="32" type="stmt"/>
+        <line num="12" count="32" type="stmt"/>
+        <line num="20" count="192" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Categories">
+      <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="2"/>
+      <file name="CategoriesDesktop.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Categories\CategoriesDesktop.jsx">
+        <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="2"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="35" type="stmt"/>
+        <line num="10" count="35" type="stmt"/>
+        <line num="11" count="35" type="stmt"/>
+        <line num="12" count="35" type="stmt"/>
+        <line num="14" count="35" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="35" type="stmt"/>
+        <line num="22" count="35" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Filter">
+      <metrics statements="15" coveredstatements="11" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="4"/>
+      <file name="Filter.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Filter\Filter.jsx">
+        <metrics statements="15" coveredstatements="11" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="4"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="70" type="stmt"/>
+        <line num="9" count="70" type="stmt"/>
+        <line num="10" count="70" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="35" type="stmt"/>
+        <line num="15" count="35" type="stmt"/>
+        <line num="18" count="70" type="stmt"/>
+        <line num="19" count="35" type="cond" truecount="1" falsecount="1"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="35" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="35" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="39" count="70" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Filter.Versions">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="DesktopFilter.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Filter\Versions\DesktopFilter.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="35" type="stmt"/>
+      </file>
+      <file name="MobileFilter.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Filter\Versions\MobileFilter.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+      </file>
+      <file name="TabletFilter.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Filter\Versions\TabletFilter.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="35" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer">
+      <metrics statements="13" coveredstatements="11" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+      <file name="Footer.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Footer\Footer.jsx">
+        <metrics statements="13" coveredstatements="11" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="4"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="172" type="stmt"/>
+        <line num="8" count="172" type="stmt"/>
+        <line num="9" count="172" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="86" type="stmt"/>
+        <line num="14" count="86" type="stmt"/>
+        <line num="17" count="172" type="stmt"/>
+        <line num="18" count="86" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="86" type="stmt"/>
+        <line num="26" count="172" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Footer.Versions">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="FooterDesktopTablet.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Footer\Versions\FooterDesktopTablet.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="172" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+      </file>
+      <file name="FooterMobile.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Footer\Versions\FooterMobile.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Header">
+      <metrics statements="21" coveredstatements="15" conditionals="10" coveredconditionals="4" methods="6" coveredmethods="4"/>
+      <file name="Header.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Header\Header.jsx">
+        <metrics statements="21" coveredstatements="15" conditionals="10" coveredconditionals="4" methods="6" coveredmethods="4"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="172" type="stmt"/>
+        <line num="10" count="172" type="cond" truecount="2" falsecount="2"/>
+        <line num="11" count="172" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="172" type="stmt"/>
+        <line num="18" count="172" type="stmt"/>
+        <line num="19" count="172" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="86" type="stmt"/>
+        <line num="24" count="86" type="stmt"/>
+        <line num="27" count="172" type="stmt"/>
+        <line num="28" count="86" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="86" type="cond" truecount="1" falsecount="1"/>
+        <line num="32" count="86" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="40" count="172" type="stmt"/>
+        <line num="49" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Header.Versions">
+      <metrics statements="10" coveredstatements="6" conditionals="27" coveredconditionals="12" methods="8" coveredmethods="2"/>
+      <file name="DesktopHeader.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Header\Versions\DesktopHeader.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="86" type="stmt"/>
+      </file>
+      <file name="MobileHeader.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Header\Versions\MobileHeader.jsx">
+        <metrics statements="6" coveredstatements="2" conditionals="11" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="86" count="5" type="stmt"/>
+      </file>
+      <file name="TabletHeader.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Header\Versions\TabletHeader.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="86" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Login">
+      <metrics statements="64" coveredstatements="25" conditionals="32" coveredconditionals="8" methods="19" coveredmethods="7"/>
+      <file name="LoginForm.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Login\LoginForm.jsx">
+        <metrics statements="64" coveredstatements="25" conditionals="32" coveredconditionals="8" methods="19" coveredmethods="7"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="59" type="stmt"/>
+        <line num="14" count="58" type="stmt"/>
+        <line num="15" count="58" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="26" type="stmt"/>
+        <line num="20" count="26" type="stmt"/>
+        <line num="23" count="58" type="stmt"/>
+        <line num="24" count="26" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="26" type="cond" truecount="3" falsecount="1"/>
+        <line num="28" count="26" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="40" count="58" type="stmt"/>
+        <line num="41" count="116" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="45" count="58" type="stmt"/>
+        <line num="46" count="58" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="58" type="stmt"/>
+        <line num="52" count="58" type="stmt"/>
+        <line num="53" count="58" type="stmt"/>
+        <line num="54" count="28" type="stmt"/>
+        <line num="60" count="58" type="stmt"/>
+        <line num="61" count="58" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="66" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="94" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="103" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="118" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="119" count="0" type="stmt"/>
+        <line num="121" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="124" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="130" count="58" type="stmt"/>
+        <line num="131" count="58" type="cond" truecount="0" falsecount="2"/>
+        <line num="132" count="58" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Products">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <file name="Products.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Products\Products.jsx">
+        <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="67" type="stmt"/>
+        <line num="10" count="67" type="stmt"/>
+        <line num="11" count="67" type="stmt"/>
+        <line num="13" count="67" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Register">
+      <metrics statements="82" coveredstatements="23" conditionals="50" coveredconditionals="15" methods="22" coveredmethods="6"/>
+      <file name="RegisterForm.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\organisms\Register\RegisterForm.jsx">
+        <metrics statements="82" coveredstatements="23" conditionals="50" coveredconditionals="15" methods="22" coveredmethods="6"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="24" type="stmt"/>
+        <line num="12" count="24" type="stmt"/>
+        <line num="13" count="24" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="18" count="12" type="stmt"/>
+        <line num="21" count="24" type="stmt"/>
+        <line num="22" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="12" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="12" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="38" count="24" type="stmt"/>
+        <line num="39" count="120" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="24" type="stmt"/>
+        <line num="44" count="24" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="24" type="stmt"/>
+        <line num="49" count="24" type="stmt"/>
+        <line num="50" count="24" type="stmt"/>
+        <line num="51" count="12" type="stmt"/>
+        <line num="57" count="24" type="stmt"/>
+        <line num="58" count="24" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="81" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="90" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="97" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="104" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="108" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="114" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="121" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="139" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="142" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="145" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="151" count="24" type="stmt"/>
+        <line num="152" count="24" type="cond" truecount="0" falsecount="2"/>
+        <line num="153" count="24" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.pages">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="Home.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\pages\Home.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="35" type="stmt"/>
+      </file>
+      <file name="Login.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\pages\Login.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="13" type="stmt"/>
+      </file>
+      <file name="Product.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\pages\Product.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="33" type="stmt"/>
+      </file>
+      <file name="SignUp.jsx" path="C:\Users\Ayelen\Documents\grupo-02\frontend\proyecto\src\components\pages\SignUp.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
